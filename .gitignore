@@ -3,3 +3,5 @@ moon.txt
 
 #Don't track results
 results*
+*.dat
+results/
